@@ -21,9 +21,10 @@
         <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
         <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.1/js/bootstrap.min.js"></script>
         <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+        <link rel="stylesheet" href="css/home.css">
     </head>
     <body class="container">
-        <h1 class="text-center mt-5">VIDEOJUEGOS</h1>
+        <h1 class="text-center mt-5 title">VIDEOJUEGOS</h1>
         <p>
             <a href="<c:url value="add.htm" />" class="btn btn-success mt-5 mb-2"><span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Agregar</a>
         </p>
